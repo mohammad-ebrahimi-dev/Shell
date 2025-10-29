@@ -1,10 +1,10 @@
-# MiniShell (.NET)
+# MiniShell (.NET) 
 
 MiniShell is a lightweight shell built with **C# and .NET**. It supports basic Linux/Windows commands, history, directory navigation, and autocomplete features.
 
 ---
 
-## Features
+## Features :rocket:
 
 - Built-in commands:
   - `help` — Show available commands
