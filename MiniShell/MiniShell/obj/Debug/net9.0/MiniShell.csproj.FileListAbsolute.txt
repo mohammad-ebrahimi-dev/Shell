@@ -1,0 +1,14 @@
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\obj\Debug\net9.0\MiniShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\obj\Debug\net9.0\MiniShell.AssemblyInfoInputs.cache
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\obj\Debug\net9.0\MiniShell.AssemblyInfo.cs
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\obj\Debug\net9.0\MiniShell.csproj.CoreCompileInputs.cache
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\bin\Debug\net9.0\MiniShell.exe
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\bin\Debug\net9.0\MiniShell.deps.json
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\bin\Debug\net9.0\MiniShell.runtimeconfig.json
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\bin\Debug\net9.0\MiniShell.dll
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\bin\Debug\net9.0\MiniShell.pdb
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\obj\Debug\net9.0\MiniShell.dll
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\obj\Debug\net9.0\refint\MiniShell.dll
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\obj\Debug\net9.0\MiniShell.pdb
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\obj\Debug\net9.0\MiniShell.genruntimeconfig.cache
+C:\Users\ebrahimi\source\repos\MiniShell\MiniShell\obj\Debug\net9.0\ref\MiniShell.dll
